@@ -1,3 +1,3 @@
 # NewRepository
-[SRF02][]
-[SRF02]:http://robot-electronics.co.uk/htm/srf02techSer.htm  "SRF02 Ultrasonic range finder"
+Raspberry Piで[SRF02][]を使う  
+[SRF02]: http://robot-electronics.co.uk/htm/srf02techSer.htmi  "SRF02 Ultrasonic range finder"
